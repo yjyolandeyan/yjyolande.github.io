@@ -12,7 +12,7 @@ profile:
     <p>B.S. and M.S.E student at University of Pennsylvania</p>
     <p><a href = "mailto: yjy(at)@seas(dot)upenn(dot)edu">yjy(at)@seas(dot)upenn(dot)edu</a></p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
