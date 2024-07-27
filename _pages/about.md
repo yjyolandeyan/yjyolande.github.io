@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>B.S. and M.S.E student at University of Pennsylvania</p>
