@@ -6,11 +6,11 @@ permalink: /
 
 profile:
   align: right
-  image: profile.JPG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>B.S. and M.S.E student at University of Pennsylvania</p>
-    <p><a href = "mailto: yjy(at)seas(dot)upenn(dot)edu">yjy(at)seas(dot)upenn(dot)edu</a></p>
+    <p><a href = "mailto: yjy(at)@seas(dot)upenn(dot)edu">yjy(at)@seas(dot)upenn(dot)edu</a></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
