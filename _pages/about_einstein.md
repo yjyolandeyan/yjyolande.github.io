@@ -1,5 +1,9 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+I am Yolande and I am currently pursuing a double major in Computer & Informational Science and Cognitive Science with an anticipated graduation date of May 2026 from the University of Pennsylvania. My interdisciplinary background fuels my profound interest in the convergence of technology, human cognition, and practical applications.
+
+Through hands-on experiences such as my internships at Bank of America and Rockwell Automation, I have developed and deployed scalable solutions, enhanced backend functionalities, and improved user experience. These roles have allowed me to work with various technologies, including Python, Java, Apache, and Spring Boot, and to deliver significant improvements in engineering efficiency and system performance in a team setting and a timely manner. Always excited to learn and tackle interesting problems, I aspire to pursue a career in software development where I can make a meaningful and dynamic impact.
