@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Teaching Assistant @ UPenn Department of Computer and Information Science
+Teaching Assistant @ Penn Computer and Information Science
