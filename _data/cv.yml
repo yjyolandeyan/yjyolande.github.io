@@ -37,38 +37,21 @@
       description: 
       - Assisted in the rollout of the Enterprise Integration Center, integrating software into visual and low-code process editors to improve engineering efficiency.
 
-
-- title: Open Source Projects
-  type: time_table
+- title: Skills
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - <u>Languages</u> Java, Python, C, C++,JavaScript, SQL, YAML, TypeScript, HTML/CSS
+    - <u>Frameworks</u> React.js, React Native, Node.js, Express.js, Spring MVC, Spring Boot, Spring Cloud, Django, JUnit, JavaFX, Flask. UI Frameworks - Ant Design, Material-UI, BootStrap
+    - <u>Databases & Cloud Platforms</u> MySQL, SQL Sever, MongoDB, Redis, Firebase, AWS, Azure, Google Cloud Platform
+    - <u>Tools & OS</u> Docker, CI/CD, Git, Postman, Linux, Dagster, Apache Tomcat
 
-- title: Honors and Awards
-  type: time_table
+- title: Courses
+  type: list
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - <u><b>CS Grad-Level</b></u> Internet and Web Systems, Machine Learning, Artificial Intelligence, Big Data Analytics, Database and Information Systems
+    - <b>CS Ugrad</b> - Algorithms and Data Structures, Computer Systems, Operating Systems Design and Implementation, Discrete Mathematics and Probability
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Travel (just went to Antarctica!), musicals (14 broadway shows), orchestra (piano, violin, cello), tennis, and so much more! The world has so much more to explore and I cannot wait.
