@@ -1,6 +1,6 @@
 ---
 layout: page
-title: currency converter
+title: Currency Converter
 description: Chrome extension that fetches real-time conversion ratio, update the new price in-place, and displays a frequency chart on the prices of the product on the given page.
 img: assets/img/cc.jpg
 importance: 1000
