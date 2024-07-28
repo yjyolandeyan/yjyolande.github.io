@@ -1,65 +1,42 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Engineering
+      institution: University of Pennyslvania, Department of Computer and Information Science
+      year: 2025-2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+        - Accelerated Masters program by UPenn
+        - TA for 3 CIS courses
+    - title: Bachelor of Science
+      institution: University of Pennyslvania
       year: 1900
       description:
-        - Description 1.
-        - Description 2.
+        - Marjors in Computer Science and Cognitive Science
+        - Penn SWE, WiCS, RTC fellow, GHC participant, Jane Street Insight Day Participant, and more! 
+        - Representing Women in Tech
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineering Intern
+      institution: Bank of America, Global Technology Department
+      year: Jun 2024 - Aug 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Secure authentication through OAuth authentication or API keys and implement data encryption and access control measures to protect sensitive data.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+    - title: Software Engineering Intern
+      institution: Datablau
+      year: Feb 2024 - Jun 2024
+      description:
+        - Based on Spring Boot, MyBatis, Redis, MQ and React, the commercial management cloud platform integrates project, listing, tenant, investment, contract and financial management functions to improve enterprise management efficiency.
+
+    - title: Software Engineering Intern
+      institution: Rockwell Automation
       year: 1917-1933
+      description: 
+      - Assisted in the rollout of the Enterprise Integration Center, integrating software into visual and low-code process editors to improve engineering efficiency.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
