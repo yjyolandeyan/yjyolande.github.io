@@ -49,7 +49,7 @@
   type: list
   contents:
     - <u><b>CS Grad-Level</b></u> Internet and Web Systems, Machine Learning, Artificial Intelligence, Big Data Analytics, Database and Information Systems
-    - <b>CS Ugrad</b> - Algorithms and Data Structures, Computer Systems, Operating Systems Design and Implementation, Discrete Mathematics and Probability
+    - <u><b>CS Ugrad</b></u> - Algorithms and Data Structures, Computer Systems, Operating Systems Design and Implementation, Discrete Mathematics and Probability
 
 - title: Other Interests
   type: list
