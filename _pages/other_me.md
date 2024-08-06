@@ -9,8 +9,7 @@ nav_order: 6
 
 ## Be curious, fail, and do it again.
 Growing up, I have always been curious about the world around me. No matter how professional I am at work, by the end of the day, I am, a 21-year-old college student who is trying to figure herself out: who am I? what do I like? and where does that lead me? 
-
-![yol 2024-08-08 13 49 49](https://github.com/user-attachments/assets/ac7edfef-8c0d-45db-999c-ae9a33857894)
+<img style="float: right; padding-left:40px;" width="320" src="https://github.com/user-attachments/assets/ac7edfef-8c0d-45db-999c-ae9a33857894">
 
 #### Bio nerd...
 In 2017, the ambitious freshman succeeded in placing out intro science courses but became the only freshman in her biology class (it's usually destinated for sophomores). She struggled a lot with all those jargons, but at the end of that year, she proved that she was the best in her class. More than that, she was lucky -- she met her advisor Mariska Batavia, a Berkeley graduated biologist who hosted the first ever science fair at her high school. Out of curiousity, she participated as a freshman. Although limited to literary research, she won the first prize.
